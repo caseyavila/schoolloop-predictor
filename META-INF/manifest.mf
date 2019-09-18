@@ -1,0 +1,62 @@
+Manifest-Version: 1.0
+
+Name: contentscript.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: gToVLr6jnahBiJTy0BB8rw==
+SHA1-Digest: d4o9yF76k3cazFcO9EQ6MGFKOu0=
+SHA256-Digest: fasBUPafbfaS9Eeng/uCUdXfRafjLODhWEi2IcebIxA=
+
+Name: finals_assignment.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: iwSTqsZB7AseulM8cAg3RA==
+SHA1-Digest: 0XpaXsUtWsfaYwOXWmLB6+IQ/FU=
+SHA256-Digest: Gm7UD2Fz8EZFEDSZowzxhbYWxVvnQFNlvkRBbUx8eIE=
+
+Name: jquery-2.1.4.min.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: +cev0Fcp8Q9Vtonza7IBcg==
+SHA1-Digest: Q9xVRgjfiFpZ3e7OFZjGrOQ010c=
+SHA256-Digest: 8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: yySZdgJLvNuye2nrDB4T+A==
+SHA1-Digest: uKQJXz0AJ+9nY41XOxtcJ5lc774=
+SHA256-Digest: 6fkWFjuBHAYOM450L/oNBtxVZmUZouLguK6LRPJ8Rc8=
+
+Name: new_assignment.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: n/Oq5A0oPezRwFXuINwd8g==
+SHA1-Digest: o+R14O+VjacqleNcY4Ok9zKX5TA=
+SHA256-Digest: UylTByMeb2zXzckJSuRiDadTJSa92eyNcapoNFlMoaA=
+
+Name: options.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: cZvTLwMPFc/UdYH/r7BGjA==
+SHA1-Digest: UrhhXK/RdS89A9TNalpPSfO0n3U=
+SHA256-Digest: k5rKlK7MS3qJT1kLcYIvZv3P6lvOUAjwL4z65gNC7JI=
+
+Name: readme.txt
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: Rbg6OlOP4wsDBi5ZHL+tNA==
+SHA1-Digest: +s4ArC0sObwSBRf2mnOWpjxIAqU=
+SHA256-Digest: u1ofrhpier41J14hG/viSoOJhVte9/+ksNvdDrkwwG0=
+
+Name: schoolloop.css
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: QUXdB7HtHFbS++8ktqiivw==
+SHA1-Digest: pC6AAsqOfNECLeHiU86wP8NGEug=
+SHA256-Digest: +YLTIzHzdqQzzJWLcp6e7NWX5lpY1INtMK4J7mwGgsI=
+
+Name: _metadata/computed_hashes.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: OwVFldhRURFphIxGxb8xHA==
+SHA1-Digest: ZMDZcgfWQoC7YjiDqfpznPu1zAM=
+SHA256-Digest: zl8G/hz+XpUmOszFtk+NA127hKHQglEfabGPtrKqww4=
+
+Name: _metadata/verified_contents.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: b+RXE6G3ccKJ8p4QsrDn2w==
+SHA1-Digest: Zc6HsHTW/8zwzel3bWgEDQxN998=
+SHA256-Digest: t1UtOUBuVtyqzt3n1LNO2fWy+YgcoEHHotI74/Xfe24=
+
