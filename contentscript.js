@@ -16,7 +16,7 @@ var NEW_ASSIGNMENT_HTML = chrome.extension.getURL('new_assignment.html');
 var OPTIONS_HTML = chrome.extension.getURL('options.html');
 var FINALS_HTML = chrome.extension.getURL('finals_assignment.html');
 
-var VERSION = "0.1";
+var VERSION = "2";
 var limited_control = true;
 var original_grade;
 var is_weighted;      //change to weighted_status
@@ -28,7 +28,8 @@ var finals_category;
 //////////////////////////////////////////////////////////////////
 ///////         Document On Ready      ///////////////////////////
 //////////////////////////////////////////////////////////////////
-$(document).on('ready',function(){
+//$(document).on('ready',function(){
+$(document).ready(function(){
   console.log("version is: " + VERSION);
 
   $('#container_content > div.content_margin > table:nth-child(4) > tbody > tr:nth-child(2) > td:nth-child(1)').append('<input type="button" id="start_edit_button" value="Start Editing" style="width: 120px;"> ');
