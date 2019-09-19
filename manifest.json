@@ -1,11 +1,11 @@
 {
    "content_scripts": [ {
       "css": [ "schoolloop.css" ],
-      "js": [ "jquery-migrate-1.4.1.js", "contentscript.js" ],
+      "js": [ "jquery-2.2.4.js", "jquery-migrate-1.4.1.js", "contentscript.js" ],
       "matches": [ "*://*.schoolloop.com/progress_report/*" ]
    } ],
    "manifest_version": 2,
    "name": "School Loop Predictor",
-   "version": "2",
+   "version": "1",
    "web_accessible_resources": [ "new_assignment.html", "options.html", "finals_assignment.html" ]
 }
