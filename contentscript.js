@@ -25,15 +25,25 @@ var category_name_list = [];
 var finals_category;
 
 
+function ready(callback){
+    // in case the document is already rendered
+    if (document.readyState!='loading') callback();
+    // modern browsers
+    else if (document.addEventListener) document.addEventListener('DOMContentLoaded', callback);
+    // IE <= 8
+    else document.attachEvent('onreadystatechange', function(){
+        if (document.readyState=='complete') callback();
+    });
+}
+
 //////////////////////////////////////////////////////////////////
 ///////         Document On Ready      ///////////////////////////
 //////////////////////////////////////////////////////////////////
-//$(document).on('ready',function(){
-$(document).ready(function(){
+ready(function(){
   console.log("version is: " + VERSION);
 
   $('#container_content > div.content_margin > table:nth-child(4) > tbody > tr:nth-child(2) > td:nth-child(1)').append('<input type="button" id="start_edit_button" value="Start Editing" style="width: 120px;"> ');
-  $('#start_edit_button').on('click', function(event){
+  ('#start_edit_button').on('click', function(event){
     $(this).remove()
     is_weighted = getIsWeighted();
   // createFinalsToggleButton(ASSIGNMENT_TABLE_WRAPPER_CSS_PATH);
