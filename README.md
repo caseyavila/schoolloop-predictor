@@ -1,5 +1,8 @@
 # schoolloop-predictor
 Firefox addon that allows students to locally change and calculate grades on the website Schoolloop.
+
+## Installation
+This addon is listed on the [addon browser](https://addons.mozilla.org/firefox/addon/school-loop-predictor/).
 ## Features
 Students can:
 - Edit existing grades
